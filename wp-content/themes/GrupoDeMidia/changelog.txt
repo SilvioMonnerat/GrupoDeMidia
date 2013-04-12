@@ -1,0 +1,66 @@
+version 1.5 ( updated 12-06-2012 )
+- Updated image resizing to utilize WP_Image_Editor object, available in WordPress 3.5 ( http://make.wordpress.org/core/2012/12/06/wp_image_editor-is-incoming/ )
+	* epanel/custom_functions.php
+
+version 1.4 ( updated 12-04-2012 )
+- Fixed ePanel active tab issue in WordPress 3.5
+	* epanel/css/panel.css
+- Bumped version number
+	* style.css
+
+version 1.3 ( updated 10-21-2012 )
+- Fixed the issue with video slider in Opera
+	* js/custom.js
+- Fixed text rendering on Mac
+- Bumped version number
+	* style.css
+
+version 1.2 ( updated 10-01-2012 )
+- Fixed thumbnail display on homepage, in case the post has no thumbnail attached:
+	* includes/entry.php
+- Fixed video slider issue:
+	* js/custom.js
+- Fixed ET Advertisement widget display issues
+- Fixed "double menu" issue in IE7
+	* js/custom.js
+	* style.css
+- Fixed image issues in IE8
+- Fixed social icons position issue in IE8
+	* style.css
+- Fixed posts duplication issue
+	* functions.php
+	* includes/featured.php
+- Improved video link recognition
+	* home.php
+- Corrected 'Number of Posts displayed on Archive pages' option name in ePanel
+	* epanel/options_lucid.php
+- Fixed 'secondary nav menu' bug ( links in 2 rows )
+	* js/custom.js
+- Fixed the link to documentation in ePanel
+	* includes/functions/installation.php
+- Fixed tab shortcode issues on iPhone
+	* epanel/shortcodes/css/shortcodes.css
+- Fixed contact form jquery validation bug
+	* epanel/page_templates/js/et-ptemplates-frontend.js
+- Shortcodes now work in excerpts
+- Fixed SEO custom title issue with static homepage
+	* epanel/custom_functions.php
+- Fixed contact form issue on Bluehost
+	* page-contact.php
+- Bumped version number
+	* style.css
+
+version 1.1 ( updated 9-5-2012 )
+- Updated shortcodes
+	* epanel/shortcodes folder
+	* functions.php
+	* page-login.php
+	* epanel/custom_functions.php
+	* epanel/options_lucid.php
+	* js/custom.js
+- Bumped version number
+	* style.css
+
+version 1.0
+
+- initial release

@@ -1,0 +1,1561 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lucid 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-17 19:41+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ann <anochka1985@gmail.com>\n"
+"Language-Team: Ann <anochka1985@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Пожалуйста, не загружайте эту страницу напрямую. Спасибо!"
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Эта страница защищена паролем. Введите пароль для просмотра комментариев."
+
+#: ../comments.php:17
+msgid "0 Comments"
+msgstr "Нет комментариев"
+
+#: ../comments.php:17
+#: ../functions.php:268
+msgid "1 Comment"
+msgstr "Один комментарий"
+
+#: ../comments.php:17
+msgid "Comments"
+msgstr "Коммент."
+
+#: ../comments.php:21
+#: ../comments.php:34
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Пред. Коммент"
+
+#: ../comments.php:22
+#: ../comments.php:35
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Нов. Коммент. <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:41
+msgid "Trackbacks/Pingbacks"
+msgstr "Трекбеки/Пинги"
+
+#: ../comments.php:59
+msgid "Submit Comment"
+msgstr "Оставить комментарий "
+
+#: ../comments.php:59
+msgid "Post a Reply"
+msgstr "Оставить комментарий "
+
+#: ../comments.php:59
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставить комментарий к %s "
+
+#: ../footer.php:52
+#, php-format
+msgid "Designed by %s | Powered by %s"
+msgstr "Designed by %s | Powered by %s"
+
+#: ../functions.php:57
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:58
+msgid "Secondary Menu"
+msgstr ""
+
+#: ../functions.php:59
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:81
+msgid "Pages Menu"
+msgstr ""
+
+#: ../functions.php:85
+msgid "Categories Menu"
+msgstr ""
+
+#: ../functions.php:247
+#, php-format
+msgid "Posts by %s"
+msgstr "Опубликовано %s"
+
+#: ../functions.php:264
+msgid "% Comments"
+msgstr ""
+
+#: ../functions.php:266
+msgid "No Comments"
+msgstr ""
+
+#: ../functions.php:281
+#: ../page-blog.php:61
+msgid "by"
+msgstr ""
+
+#: ../functions.php:285
+#: ../page-blog.php:61
+msgid "on"
+msgstr ""
+
+#: ../functions.php:288
+#: ../page-blog.php:61
+msgid "in"
+msgstr ""
+
+#: ../functions.php:293
+#: ../page-blog.php:61
+msgid "Posted"
+msgstr "Опубликовано"
+
+#: ../header.php:52
+#: ../header.php:130
+msgid "Home"
+msgstr "Главная"
+
+#: ../header.php:82
+msgid "Search This Site..."
+msgstr "Искать..."
+
+#: ../home.php:41
+msgid "Recent videos"
+msgstr "Последние видео"
+
+#: ../home.php:42
+msgid "More"
+msgstr "Далее"
+
+#: ../home.php:105
+msgid "Most recent articles"
+msgstr "Последние статьи"
+
+#: ../home.php:132
+#: ../loop-single.php:9
+#: ../page-blog.php:61
+msgid "0 comments"
+msgstr "Нет комментариев"
+
+#: ../home.php:132
+#: ../loop-single.php:9
+#: ../page-blog.php:61
+msgid "1 comment"
+msgstr "1 коммент."
+
+#: ../home.php:132
+#: ../loop-single.php:9
+#: ../page-blog.php:61
+msgid "comments"
+msgstr "коммент."
+
+#: ../loop-page.php:22
+#: ../loop-single.php:51
+#: ../page-blog.php:103
+#: ../page-contact.php:139
+#: ../page-gallery.php:83
+#: ../page-login.php:56
+#: ../page-search.php:49
+#: ../page-search.php:85
+#: ../page-sitemap.php:43
+#: ../page-sitemap.php:76
+msgid "Pages"
+msgstr "Страницы"
+
+#: ../loop-page.php:23
+#: ../loop-single.php:52
+#: ../page-blog.php:104
+#: ../page-contact.php:140
+#: ../page-gallery.php:84
+#: ../page-login.php:57
+#: ../page-search.php:86
+#: ../page-sitemap.php:77
+msgid "Edit this page"
+msgstr "Редактировать страницу"
+
+#: ../page-blog.php:81
+msgid "read more"
+msgstr "далее"
+
+#: ../page-contact.php:19
+msgid "Make sure you entered the captcha. "
+msgstr ""
+
+#: ../page-contact.php:22
+msgid "Numbers regenerated."
+msgstr ""
+
+#: ../page-contact.php:23
+msgid "You entered the wrong number in captcha. "
+msgstr ""
+
+#: ../page-contact.php:32
+msgid "Make sure you fill all fields. "
+msgstr ""
+
+#: ../page-contact.php:37
+msgid "Invalid Email. "
+msgstr ""
+
+#: ../page-contact.php:58
+msgid "Thanks for contacting us"
+msgstr ""
+
+#: ../page-contact.php:98
+#: ../page-contact.php:99
+msgid "Name"
+msgstr ""
+
+#: ../page-contact.php:103
+#: ../page-contact.php:104
+msgid "Email Address"
+msgstr ""
+
+#: ../page-contact.php:108
+#: ../page-contact.php:109
+msgid "Subject"
+msgstr ""
+
+#: ../page-contact.php:116
+msgid "Captcha: "
+msgstr ""
+
+#: ../page-contact.php:127
+#: ../page-contact.php:128
+msgid "Message"
+msgstr ""
+
+#: ../page-contact.php:133
+msgid "Reset"
+msgstr ""
+
+#: ../page-contact.php:134
+#: ../page-search.php:77
+msgid "Submit"
+msgstr ""
+
+#: ../page-gallery.php:66
+msgid "Zoom in"
+msgstr ""
+
+#: ../page-gallery.php:67
+msgid "Read more"
+msgstr ""
+
+#: ../page-login.php:45
+msgid "Username"
+msgstr ""
+
+#: ../page-login.php:46
+msgid "Password"
+msgstr ""
+
+#: ../page-login.php:50
+msgid "Not a member?"
+msgstr ""
+
+#: ../page-login.php:50
+msgid "Register today!"
+msgstr ""
+
+#: ../page-search.php:43
+msgid "search this website"
+msgstr ""
+
+#: ../page-search.php:46
+msgid "search this site..."
+msgstr ""
+
+#: ../page-search.php:48
+msgid "Posts"
+msgstr ""
+
+#: ../page-search.php:52
+msgid "Select a month"
+msgstr ""
+
+#: ../page-sitemap.php:48
+msgid "Categories"
+msgstr ""
+
+#: ../page-sitemap.php:53
+msgid "Tags"
+msgstr ""
+
+#: ../page-sitemap.php:69
+msgid "Authors"
+msgstr ""
+
+#: ../epanel/core_functions.php:26
+#: ../epanel/core_functions.php:371
+msgid "Saving..."
+msgstr ""
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr ""
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr ""
+
+#: ../epanel/core_functions.php:73
+msgid "Theme Options"
+msgstr ""
+
+#: ../epanel/core_functions.php:87
+msgid "settings saved."
+msgstr ""
+
+#: ../epanel/core_functions.php:90
+msgid "settings reset."
+msgstr ""
+
+#: ../epanel/core_functions.php:108
+#: ../epanel/options_lucid.php:334
+#: ../epanel/options_lucid.php:483
+msgid "General Settings"
+msgstr ""
+
+#: ../epanel/core_functions.php:111
+msgid "Navigation"
+msgstr ""
+
+#: ../epanel/core_functions.php:114
+msgid "Layout Settings"
+msgstr ""
+
+#: ../epanel/core_functions.php:117
+msgid "Ad Management"
+msgstr ""
+
+#: ../epanel/core_functions.php:120
+#: ../epanel/options_lucid.php:575
+msgid "Colorization"
+msgstr ""
+
+#: ../epanel/core_functions.php:123
+msgid "SEO"
+msgstr ""
+
+#: ../epanel/core_functions.php:126
+msgid "Integration"
+msgstr ""
+
+#: ../epanel/core_functions.php:129
+msgid "Support Docs"
+msgstr ""
+
+#: ../epanel/core_functions.php:196
+msgid "Upload Image"
+msgstr ""
+
+#: ../epanel/core_functions.php:221
+msgid "You don't have pages"
+msgstr ""
+
+#: ../epanel/core_functions.php:344
+msgid "Save changes"
+msgstr ""
+
+#: ../epanel/core_functions.php:355
+msgid "This will return all of the settings throughout the options page to their default values. <strong>Are you sure you want to do this?"
+msgstr ""
+
+#: ../epanel/custom_functions.php:750
+msgid "Image doesn't exist"
+msgstr ""
+
+#: ../epanel/custom_functions.php:915
+#, php-format
+msgid "<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will disappear once you have clicked the Save button within the <a href=\"%2$s\">theme's options page</a>.</p></div>"
+msgstr ""
+
+#: ../epanel/custom_functions.php:927
+#, php-format
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%1$s\">View version %3$s details</a>. <em>Auto-updates are not available for this theme. If this is an Elegant Themes theme, then you must re-download the theme from the member's area and <a href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" target=\"_blank\">re-install it</a> in order to update it to the latest version.</em>"
+msgstr ""
+
+#: ../epanel/custom_functions.php:931
+msgid "Auto-updates are not available for this theme. If this is an Elegant Themes theme, then you must re-download the theme from the member's area and <a href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" target=\"_blank\">re-install it</a> in order to update it to the latest version."
+msgstr ""
+
+#: ../epanel/options_lucid.php:27
+msgid "Thin Vertical Lines"
+msgstr ""
+
+#: ../epanel/options_lucid.php:27
+msgid "Small Squares"
+msgstr ""
+
+#: ../epanel/options_lucid.php:27
+msgid "Thick Diagonal Lines"
+msgstr ""
+
+#: ../epanel/options_lucid.php:27
+msgid "Thin Diagonal Lines"
+msgstr ""
+
+#: ../epanel/options_lucid.php:27
+msgid "Diamonds"
+msgstr ""
+
+#: ../epanel/options_lucid.php:27
+msgid "Small Circles"
+msgstr ""
+
+#: ../epanel/options_lucid.php:27
+msgid "Thick Vertical Lines"
+msgstr ""
+
+#: ../epanel/options_lucid.php:27
+msgid "Thin Flourish"
+msgstr ""
+
+#: ../epanel/options_lucid.php:27
+msgid "Thick Flourish"
+msgstr ""
+
+#: ../epanel/options_lucid.php:27
+msgid "Pocodot"
+msgstr ""
+
+#: ../epanel/options_lucid.php:27
+msgid "Checkerboard"
+msgstr ""
+
+#: ../epanel/options_lucid.php:27
+msgid "Squares"
+msgstr ""
+
+#: ../epanel/options_lucid.php:27
+msgid "Noise"
+msgstr ""
+
+#: ../epanel/options_lucid.php:27
+msgid "Wooden"
+msgstr ""
+
+#: ../epanel/options_lucid.php:27
+msgid "Stone"
+msgstr ""
+
+#: ../epanel/options_lucid.php:27
+msgid "Canvas"
+msgstr ""
+
+#: ../epanel/options_lucid.php:44
+msgid "General"
+msgstr ""
+
+#: ../epanel/options_lucid.php:48
+msgid "Homepage"
+msgstr ""
+
+#: ../epanel/options_lucid.php:52
+msgid "Featured Slider"
+msgstr ""
+
+#: ../epanel/options_lucid.php:59
+msgid "Logo"
+msgstr ""
+
+#: ../epanel/options_lucid.php:63
+#: ../epanel/options_lucid.php:70
+#: ../epanel/options_lucid.php:100
+#: ../epanel/options_lucid.php:107
+#: ../epanel/options_lucid.php:116
+#: ../epanel/options_lucid.php:125
+#: ../epanel/options_lucid.php:132
+#: ../epanel/options_lucid.php:139
+#: ../epanel/options_lucid.php:183
+#: ../epanel/options_lucid.php:205
+#: ../epanel/options_lucid.php:214
+msgid "desc."
+msgstr ""
+
+#: ../epanel/options_lucid.php:66
+msgid "Favicon"
+msgstr ""
+
+#: ../epanel/options_lucid.php:80
+msgid "Blog Style post format"
+msgstr ""
+
+#: ../epanel/options_lucid.php:84
+msgid "By default the theme truncates your posts on index/homepages automatically to create post previews. If you would rather show your posts in full on index pages like a traditional blog then you can activate this feature."
+msgstr ""
+
+#: ../epanel/options_lucid.php:87
+msgid "Grab the first post image"
+msgstr ""
+
+#: ../epanel/options_lucid.php:91
+msgid "By default thumbnail images are created using custom fields. However, if you would rather use the images that are already in your post for your thumbnail (and bypass using custom fields) you can activate this option. Once activcated thumbnail images will be generated automatically using the first image in your post. The image must be hosted on your own server."
+msgstr ""
+
+#: ../epanel/options_lucid.php:96
+msgid "Show Twitter Icon"
+msgstr ""
+
+#: ../epanel/options_lucid.php:103
+msgid "Show RSS Icon"
+msgstr ""
+
+#: ../epanel/options_lucid.php:112
+msgid "Show Facebook Icon"
+msgstr ""
+
+#: ../epanel/options_lucid.php:121
+msgid "Twitter Profile Url"
+msgstr ""
+
+#: ../epanel/options_lucid.php:128
+msgid "RSS Icon Url"
+msgstr ""
+
+#: ../epanel/options_lucid.php:135
+msgid "Facebook Profile Url"
+msgstr ""
+
+#: ../epanel/options_lucid.php:142
+msgid "Number of Posts displayed on Category page"
+msgstr ""
+
+#: ../epanel/options_lucid.php:146
+msgid "Here you can designate how many recent articles are displayed on the Category page. This option works independently from the Settings > Reading options in wp-admin."
+msgstr ""
+
+#: ../epanel/options_lucid.php:149
+msgid "Number of Posts displayed on Portfolio pages"
+msgstr ""
+
+#: ../epanel/options_lucid.php:153
+msgid "Here you can designate how many recent articles are displayed on the Archive pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr ""
+
+#: ../epanel/options_lucid.php:156
+msgid "Number of Posts displayed on Search pages"
+msgstr ""
+
+#: ../epanel/options_lucid.php:160
+msgid "Here you can designate how many recent articles are displayed on the Search results pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr ""
+
+#: ../epanel/options_lucid.php:163
+msgid "Number of Posts displayed on Tag pages"
+msgstr ""
+
+#: ../epanel/options_lucid.php:167
+msgid "Here you can designate how many recent articles are displayed on the Tag pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr ""
+
+#: ../epanel/options_lucid.php:170
+msgid "Date format"
+msgstr ""
+
+#: ../epanel/options_lucid.php:174
+msgid "This option allows you to change how your dates are displayed. For more information please refer to the WordPress codex here:<a href='http://codex.wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and Time</a>"
+msgstr ""
+
+#: ../epanel/options_lucid.php:179
+msgid "Use excerpts when defined"
+msgstr ""
+
+#: ../epanel/options_lucid.php:194
+msgid "Show Sidebar on the left on Homepage"
+msgstr ""
+
+#: ../epanel/options_lucid.php:198
+msgid "Enable this option to change the location of the sidebar on homepage"
+msgstr ""
+
+#: ../epanel/options_lucid.php:201
+msgid "Display Video Slider"
+msgstr ""
+
+#: ../epanel/options_lucid.php:210
+msgid "Number of posts in the Video slider"
+msgstr ""
+
+#: ../epanel/options_lucid.php:217
+msgid "Number of Recent Posts displayed on homepage"
+msgstr ""
+
+#: ../epanel/options_lucid.php:221
+msgid "Here you can designate how many recent articles are displayed on the homepage. This option works independently from the Settings > Reading options in wp-admin."
+msgstr ""
+
+#: ../epanel/options_lucid.php:224
+msgid "Exclude categories from homepage recent posts"
+msgstr ""
+
+#: ../epanel/options_lucid.php:228
+msgid "By default the homepage displays a list of all of your most recent posts. However, if you would like to exlcude certain category from the list you can do so here. "
+msgstr ""
+
+#: ../epanel/options_lucid.php:238
+msgid "Display Featured Slider"
+msgstr ""
+
+#: ../epanel/options_lucid.php:242
+msgid "You can choose whether or not to display the Featured Articles section on the homepge. If you don't want to utilize this feature simply disable this option."
+msgstr ""
+
+#: ../epanel/options_lucid.php:245
+msgid "Duplicate Featured Articles"
+msgstr ""
+
+#: ../epanel/options_lucid.php:249
+msgid "In some cases your Featured Articles will also be one of your most recent articles, in which case the article will be displayed twice on the homepage. If you would like to remove duplicate posts enable this option."
+msgstr ""
+
+#: ../epanel/options_lucid.php:254
+msgid "Number of Featured Slides"
+msgstr ""
+
+#: ../epanel/options_lucid.php:258
+msgid "This setting controls how menu tabs are added to the Featured Articles slider on the homepage."
+msgstr ""
+
+#: ../epanel/options_lucid.php:261
+msgid "Featured Posts Category"
+msgstr ""
+
+#: ../epanel/options_lucid.php:265
+msgid "Here you can choose which category to be used to populate the Featured Slider on the homepage. This only applies if you have disabled the Use Pages options below."
+msgstr ""
+
+#: ../epanel/options_lucid.php:268
+msgid "Use pages"
+msgstr ""
+
+#: ../epanel/options_lucid.php:272
+msgid "The homepage Featured Slider can be set up using two methods. You can populate the slider using Posts, or you can populate it using Pages. If you would like to use Pages in the Featured Slider then enable this option."
+msgstr ""
+
+#: ../epanel/options_lucid.php:277
+msgid "Include pages in the Featured Slider (if Use Pages enabled)"
+msgstr ""
+
+#: ../epanel/options_lucid.php:281
+msgid "If you selected Use Pages above, then use the checkboxes below to choose which pages are displayed in the Featured Slider."
+msgstr ""
+
+#: ../epanel/options_lucid.php:286
+msgid "Featured Slider Animation"
+msgstr ""
+
+#: ../epanel/options_lucid.php:293
+msgid "Automatic Slider Animation"
+msgstr ""
+
+#: ../epanel/options_lucid.php:297
+msgid "If you would like the Featured Articles slider to slide automatically, without the visitor having to click the next button, enable this option and then adjust the rotation speed below if desired."
+msgstr ""
+
+#: ../epanel/options_lucid.php:302
+msgid "Automatic Animation Speed (in ms)"
+msgstr ""
+
+#: ../epanel/options_lucid.php:306
+msgid "Here you can designate how fast the slider fades between each article. The higher the number the longer the pause between each rotation."
+msgstr ""
+
+#: ../epanel/options_lucid.php:342
+msgid "Exclude pages from the navigation bar"
+msgstr ""
+
+#: ../epanel/options_lucid.php:346
+msgid "Here you can choose to remove certain pages from the navigation menu. All pages marked with an X will not appear in your navigation bar. "
+msgstr ""
+
+#: ../epanel/options_lucid.php:350
+#: ../epanel/options_lucid.php:404
+msgid "Show dropdown menus"
+msgstr ""
+
+#: ../epanel/options_lucid.php:354
+msgid "If you would like to remove the dropdown menus from the pages navigation bar disable this feature."
+msgstr ""
+
+#: ../epanel/options_lucid.php:357
+msgid "Display Home link"
+msgstr ""
+
+#: ../epanel/options_lucid.php:361
+msgid "By default the theme creates a Home link that, when clicked, leads back to your blog's homepage. If, however, you are using a static homepage and have already created a page called Home to use, this will result in a duplicate link. In this case you should disable this feature to remove the link."
+msgstr ""
+
+#: ../epanel/options_lucid.php:366
+msgid "Sort Pages Links"
+msgstr ""
+
+#: ../epanel/options_lucid.php:370
+msgid "Here you can choose to sort your pages links."
+msgstr ""
+
+#: ../epanel/options_lucid.php:373
+msgid "Order Pages Links by Ascending/Descending"
+msgstr ""
+
+#: ../epanel/options_lucid.php:377
+msgid "Here you can choose to reverse the order that your pages links are displayed. You can choose between ascending and descending."
+msgstr ""
+
+#: ../epanel/options_lucid.php:380
+#: ../epanel/options_lucid.php:420
+msgid "Number of dropdown tiers shown"
+msgstr ""
+
+#: ../epanel/options_lucid.php:384
+#: ../epanel/options_lucid.php:424
+msgid "This options allows you to control how many teirs your pages dropdown menu has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+
+#: ../epanel/options_lucid.php:396
+msgid "Exclude categories from the navigation bar"
+msgstr ""
+
+#: ../epanel/options_lucid.php:400
+msgid "Here you can choose to remove certain categories from the navigation menu. All categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+
+#: ../epanel/options_lucid.php:408
+msgid "If you would like to remove the dropdown menus from the categories navigation bar disable this feature."
+msgstr ""
+
+#: ../epanel/options_lucid.php:411
+msgid "Hide empty categories"
+msgstr ""
+
+#: ../epanel/options_lucid.php:415
+msgid "If you would like categories to be displayed in your navigationbar that don't have any posts in them then disable this option. By default empty categories are hidden"
+msgstr ""
+
+#: ../epanel/options_lucid.php:429
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr ""
+
+#: ../epanel/options_lucid.php:433
+msgid "By default pages are sorted by name. However if you would rather have them sorted by ID you can adjust this setting."
+msgstr ""
+
+#: ../epanel/options_lucid.php:436
+msgid "Order Category Links by Ascending/Descending"
+msgstr ""
+
+#: ../epanel/options_lucid.php:440
+msgid "Here you can choose to reverse the order that your categories links are displayed. You can choose between ascending and descending."
+msgstr ""
+
+#: ../epanel/options_lucid.php:449
+msgid "Disable top tier dropdown menu links"
+msgstr ""
+
+#: ../epanel/options_lucid.php:453
+msgid "In some cases users will want to create parent categories or links as placeholders to hold a list of child links or categories. In this case it is not desirable to have the parent links lead anywhere, but instead merely serve an organizational function. Enabling this options will remove the links from all parent pages/categories so that they don't lead anywhere when clicked."
+msgstr ""
+
+#: ../epanel/options_lucid.php:473
+msgid "Single Post Layout"
+msgstr ""
+
+#: ../epanel/options_lucid.php:478
+msgid "Single Page Layout"
+msgstr ""
+
+#: ../epanel/options_lucid.php:491
+msgid "Choose which items to display in the postinfo section"
+msgstr ""
+
+#: ../epanel/options_lucid.php:495
+msgid "Here you can choose which items appear in the postinfo section on single post pages. This is the area, usually below the post title, which displays basic information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+
+#: ../epanel/options_lucid.php:498
+msgid "Place Thumbs on Posts"
+msgstr ""
+
+#: ../epanel/options_lucid.php:502
+msgid "By default thumbnails are placed at the beginning of your post on single post pages. If you would like to remove this initial thumbnail image to avoid repetition simply disable this option. "
+msgstr ""
+
+#: ../epanel/options_lucid.php:505
+msgid "Show comments on posts"
+msgstr ""
+
+#: ../epanel/options_lucid.php:509
+msgid "You can disable this option if you want to remove the comments and comment form from single post pages. "
+msgstr ""
+
+#: ../epanel/options_lucid.php:520
+msgid "Place Thumbs on Pages"
+msgstr ""
+
+#: ../epanel/options_lucid.php:524
+msgid "By default thumbnails are not placed on pages (they are only used on posts). However, if you want to use thumbnails on posts you can! Just enable this option. "
+msgstr ""
+
+#: ../epanel/options_lucid.php:527
+msgid "Show comments on pages"
+msgstr ""
+
+#: ../epanel/options_lucid.php:531
+msgid "By default comments are not placed on pages, however, if you would like to allow people to comment on your pages simply enable this option. "
+msgstr ""
+
+#: ../epanel/options_lucid.php:542
+msgid "Post info section"
+msgstr ""
+
+#: ../epanel/options_lucid.php:546
+msgid "Here you can choose which items appear in the postinfo section on pages. This is the area, usually below the post title, which displays basic information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+
+#: ../epanel/options_lucid.php:551
+msgid "Show Thumbs on Index pages"
+msgstr ""
+
+#: ../epanel/options_lucid.php:555
+msgid "desc. "
+msgstr ""
+
+#: ../epanel/options_lucid.php:583
+msgid "Color visualizer (this is not setting, just a tool to find hexdecimal values)"
+msgstr ""
+
+#: ../epanel/options_lucid.php:585
+msgid "This is a tool that can be used to find hexdecimal color values. These values can be used to customize the colors of the various elements below. This color picker will also appear which you click in any of the fields below. "
+msgstr ""
+
+#: ../epanel/options_lucid.php:588
+msgid "Enable custom colors"
+msgstr ""
+
+#: ../epanel/options_lucid.php:592
+msgid "This option allows you to customize the color of a certain element of the theme. When you click in the field a color picker will appear. Scroll to find your desired color and then click the circular submit button on the lower right to accept the value."
+msgstr ""
+
+#: ../epanel/options_lucid.php:595
+msgid "Enable child stylesheet"
+msgstr ""
+
+#: ../epanel/options_lucid.php:599
+msgid "If you would like to add a second stylsheet to your blog enable this option and input the link to your stylesheet below."
+msgstr ""
+
+#: ../epanel/options_lucid.php:604
+msgid "Child stylesheet URL"
+msgstr ""
+
+#: ../epanel/options_lucid.php:608
+msgid "Input the URL to your child stylsheet here."
+msgstr ""
+
+#: ../epanel/options_lucid.php:611
+msgid "Main font color"
+msgstr ""
+
+#: ../epanel/options_lucid.php:615
+#: ../epanel/options_lucid.php:622
+#: ../epanel/options_lucid.php:629
+#: ../epanel/options_lucid.php:636
+#: ../epanel/options_lucid.php:643
+#: ../epanel/options_lucid.php:650
+#: ../epanel/options_lucid.php:657
+#: ../epanel/options_lucid.php:664
+msgid "This option allows you to customize the color of a certain element of the theme. When you click inside the field a color picker will appear. Scroll to find your desired color and then click the circular submit button on the lower right to accept the value"
+msgstr ""
+
+#: ../epanel/options_lucid.php:618
+msgid "Link color"
+msgstr ""
+
+#: ../epanel/options_lucid.php:625
+msgid "Menu link color"
+msgstr ""
+
+#: ../epanel/options_lucid.php:632
+msgid "Menu active link color"
+msgstr ""
+
+#: ../epanel/options_lucid.php:639
+msgid "Headings color"
+msgstr ""
+
+#: ../epanel/options_lucid.php:646
+msgid "Sidebar links color"
+msgstr ""
+
+#: ../epanel/options_lucid.php:653
+msgid "Footer text color"
+msgstr ""
+
+#: ../epanel/options_lucid.php:660
+msgid "Footer links color"
+msgstr ""
+
+#: ../epanel/options_lucid.php:681
+msgid "Homepage SEO"
+msgstr ""
+
+#: ../epanel/options_lucid.php:686
+msgid "Single Post Page SEO"
+msgstr ""
+
+#: ../epanel/options_lucid.php:691
+msgid "Index Page SEO"
+msgstr ""
+
+#: ../epanel/options_lucid.php:699
+msgid " Enable custom title "
+msgstr ""
+
+#: ../epanel/options_lucid.php:703
+msgid "By default the theme uses a combination of your blog name and your blog description, as defined when you created your blog, to create your homepage titles. However if you want to create a custom title then simply enable this option and fill in the custom title field below. "
+msgstr ""
+
+#: ../epanel/options_lucid.php:706
+msgid " Enable meta description"
+msgstr ""
+
+#: ../epanel/options_lucid.php:710
+msgid "By default the theme uses your blog description, as defined when you created your blog, to fill in the meta description field. If you would like to use a different description then enable this option and fill in the custom description field below. "
+msgstr ""
+
+#: ../epanel/options_lucid.php:713
+msgid " Enable meta keywords"
+msgstr ""
+
+#: ../epanel/options_lucid.php:717
+msgid "By default the theme does not add keywords to your header. Most search engines don't use keywords to rank your site anymore, but some people define them anyway just in case. If you want to add meta keywords to your header then enable this option and fill in the custom keywords field below. "
+msgstr ""
+
+#: ../epanel/options_lucid.php:720
+#: ../epanel/options_lucid.php:845
+msgid " Enable canonical URL's"
+msgstr ""
+
+#: ../epanel/options_lucid.php:724
+msgid "Canonicalization helps to prevent the indexing of duplicate content by search engines, and as a result, may help avoid duplicate content penalties and pagerank degradation. Some pages may have different URLs all leading to the same place. For example domain.com, domain.com/index.html, and www.domain.com are all different URLs leading to your homepage. From a search engine's perspective these duplicate URLs, which also occur often due to custom permalinks, may be treaded individually instead of as a single destination. Defining a canonical URL tells the search engine which URL you would like to use officially. The theme bases its canonical URLs off your permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+
+#: ../epanel/options_lucid.php:729
+msgid "Homepage custom title (if enabled)"
+msgstr ""
+
+#: ../epanel/options_lucid.php:733
+msgid "If you have enabled custom titles you can add your custom title here. Whatever you type here will be placed between the < title >< /title > tags in header.php"
+msgstr ""
+
+#: ../epanel/options_lucid.php:736
+msgid "Homepage meta description (if enabled)"
+msgstr ""
+
+#: ../epanel/options_lucid.php:740
+msgid "If you have enabled meta descriptions you can add your custom description here."
+msgstr ""
+
+#: ../epanel/options_lucid.php:743
+msgid "Homepage meta keywords (if enabled)"
+msgstr ""
+
+#: ../epanel/options_lucid.php:747
+msgid "If you have enabled meta keywords you can add your custom keywords here. Keywords should be separated by comas. For example: wordpress,themes,templates,elegant"
+msgstr ""
+
+#: ../epanel/options_lucid.php:750
+#: ../epanel/options_lucid.php:824
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr ""
+
+#: ../epanel/options_lucid.php:755
+msgid "If you are not using cutsom post titles you can still have control over how your titles are generated. Here you can choose which order you would like your post title and blog name to be displayed, or you can remove the blog name from the title completely."
+msgstr ""
+
+#: ../epanel/options_lucid.php:758
+#: ../epanel/options_lucid.php:832
+#: ../epanel/options_lucid.php:869
+msgid "Define a character to separate BlogName and Post title"
+msgstr ""
+
+#: ../epanel/options_lucid.php:762
+#: ../epanel/options_lucid.php:836
+msgid "Here you can change which character separates your blog title and post name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+
+#: ../epanel/options_lucid.php:771
+msgid "Enable custom titles"
+msgstr ""
+
+#: ../epanel/options_lucid.php:775
+msgid "By default the theme creates post titles based on the title of your post and your blog name. If you would like to make your meta title different than your actual post title you can define a custom title for each post using custom fields. This option must be enabled for custom titles to work, and you must choose a custom field name for your title below."
+msgstr ""
+
+#: ../epanel/options_lucid.php:778
+msgid "Enable custom description"
+msgstr ""
+
+#: ../epanel/options_lucid.php:782
+msgid "If you would like to add a meta description to your post you can do so using custom fields. This option must be enabled for descriptions to be displayed on post pages. You can add your meta description using custom fields based off the custom field name you define below."
+msgstr ""
+
+#: ../epanel/options_lucid.php:787
+msgid "Enable custom keywords"
+msgstr ""
+
+#: ../epanel/options_lucid.php:791
+msgid "If you would like to add meta keywords to your post you can do so using custom fields. This option must be enabled for keywords to be displayed on post pages. You can add your meta keywords using custom fields based off the custom field name you define below."
+msgstr ""
+
+#: ../epanel/options_lucid.php:794
+msgid "Enable canonical URL's"
+msgstr ""
+
+#: ../epanel/options_lucid.php:798
+#: ../epanel/options_lucid.php:849
+msgid "Canonicalization helps to prevent the indexing of duplicate content by search engines, and as a result, may help avoid duplicate content penalties and pagerank degradation. Some pages may have different URL's all leading to the same place. For example domain.com, domain.com/index.html, and www.domain.com are all different URLs leading to your homepage. From a search engine's perspective these duplicate URLs, which also occur often due to custom permalinks, may be treaded individually instead of as a single destination. Defining a canonical URL tells the search engine which URL you would like to use officially. The theme bases its canonical URLs off your permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+
+#: ../epanel/options_lucid.php:803
+msgid "Custom field Name to be used for title"
+msgstr ""
+
+#: ../epanel/options_lucid.php:807
+msgid "When you define your title using custom fields you should use this value for the custom field Name. The Value of your custom field should be the custom title you would like to use."
+msgstr ""
+
+#: ../epanel/options_lucid.php:810
+msgid "Custom field Name to be used for description"
+msgstr ""
+
+#: ../epanel/options_lucid.php:814
+msgid "When you define your meta description using custom fields you should use this value for the custom field Name. The Value of your custom field should be the custom description you would like to use."
+msgstr ""
+
+#: ../epanel/options_lucid.php:817
+msgid "Custom field Name to be used for keywords"
+msgstr ""
+
+#: ../epanel/options_lucid.php:821
+msgid "When you define your keywords using custom fields you should use this value for the custom field Name. The Value of your custom field should be the meta keywords you would like to use, separated by comas."
+msgstr ""
+
+#: ../epanel/options_lucid.php:829
+msgid "If you are not using cutsom post titles you can still have control over hw your titles are generated. Here you can choose which order you would like your post title and blog name to be displayed, or you can remove the blog name from the title completely."
+msgstr ""
+
+#: ../epanel/options_lucid.php:852
+msgid "Enable meta descriptions"
+msgstr ""
+
+#: ../epanel/options_lucid.php:856
+msgid "Check this box if you want to display meta descriptions on category/archive pages. The description is based off the category description you choose when creating/edit your category in wp-admin."
+msgstr ""
+
+#: ../epanel/options_lucid.php:861
+msgid "Choose title autogeneration method"
+msgstr ""
+
+#: ../epanel/options_lucid.php:866
+msgid "Here you can choose how your titles on index pages are generated. You can change which order your blog name and index title are displayed, or you can remove the blog name from the title completely."
+msgstr ""
+
+#: ../epanel/options_lucid.php:873
+#: ../epanel/options_lucid.php:1039
+#: ../epanel/options_lucid.php:1046
+msgid "Here you can change which character separates your blog title and index page name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+
+#: ../epanel/options_lucid.php:893
+msgid "Code Integration"
+msgstr ""
+
+#: ../epanel/options_lucid.php:901
+msgid "Enable header code"
+msgstr ""
+
+#: ../epanel/options_lucid.php:905
+msgid "Disabling this option will remove the header code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: ../epanel/options_lucid.php:908
+msgid "Enable body code"
+msgstr ""
+
+#: ../epanel/options_lucid.php:912
+msgid "Disabling this option will remove the body code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: ../epanel/options_lucid.php:917
+msgid "Enable single top code"
+msgstr ""
+
+#: ../epanel/options_lucid.php:921
+msgid "Disabling this option will remove the single top code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: ../epanel/options_lucid.php:924
+msgid "Enable single bottom code"
+msgstr ""
+
+#: ../epanel/options_lucid.php:928
+msgid "Disabling this option will remove the single bottom code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: ../epanel/options_lucid.php:933
+msgid "Add code to the < head > of your blog"
+msgstr ""
+
+#: ../epanel/options_lucid.php:937
+msgid "Any code you place here will appear in the head section of every page of your blog. This is useful when you need to add javascript or css to all pages."
+msgstr ""
+
+#: ../epanel/options_lucid.php:940
+msgid "Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr ""
+
+#: ../epanel/options_lucid.php:944
+msgid "Any code you place here will appear in body section of all pages of your blog. This is usefull if you need to input a tracking pixel for a state counter such as Google Analytics."
+msgstr ""
+
+#: ../epanel/options_lucid.php:947
+msgid "Add code to the top of your posts"
+msgstr ""
+
+#: ../epanel/options_lucid.php:951
+#: ../epanel/options_lucid.php:958
+msgid "Any code you place here will be placed at the top of all single posts. This is useful if you are looking to integrating things such as social bookmarking links."
+msgstr ""
+
+#: ../epanel/options_lucid.php:954
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr ""
+
+#: ../epanel/options_lucid.php:976
+msgid "Documentation"
+msgstr ""
+
+#: ../epanel/options_lucid.php:1002
+msgid "Manage Un-widgetized Advertisements"
+msgstr ""
+
+#: ../epanel/options_lucid.php:1010
+msgid "Enable Single Post 468x60 banner"
+msgstr ""
+
+#: ../epanel/options_lucid.php:1014
+msgid "Enabling this option will display a 468x60 banner ad on the bottom of your post pages below the single post content. If enabled you must fill in the banner image and destination url below."
+msgstr ""
+
+#: ../epanel/options_lucid.php:1017
+msgid "Enable 468x60 Header banner"
+msgstr ""
+
+#: ../epanel/options_lucid.php:1021
+#: ../epanel/options_lucid.php:1030
+msgid "Enabling this option will display a 468x60 banner ad next to the logo. If enabled you must fill in the banner image and destination url below."
+msgstr ""
+
+#: ../epanel/options_lucid.php:1026
+msgid "Enable 728x90 Footer banner"
+msgstr ""
+
+#: ../epanel/options_lucid.php:1035
+msgid "Input 468x60 advertisement banner image"
+msgstr ""
+
+#: ../epanel/options_lucid.php:1042
+msgid "Input 468x60 advertisement destination url"
+msgstr ""
+
+#: ../epanel/options_lucid.php:1049
+msgid "Input 468x60 adsense code"
+msgstr ""
+
+#: ../epanel/options_lucid.php:1053
+#: ../epanel/options_lucid.php:1060
+#: ../epanel/options_lucid.php:1067
+#: ../epanel/options_lucid.php:1074
+#: ../epanel/options_lucid.php:1081
+#: ../epanel/options_lucid.php:1088
+#: ../epanel/options_lucid.php:1095
+msgid "desc"
+msgstr ""
+
+#: ../epanel/options_lucid.php:1056
+msgid "Input 468x60 advertisement banner image ( Header area )"
+msgstr ""
+
+#: ../epanel/options_lucid.php:1063
+msgid "Input 468x60 advertisement destination url ( Header area )"
+msgstr ""
+
+#: ../epanel/options_lucid.php:1070
+msgid "Input 468x60 adsense code ( Header area )"
+msgstr ""
+
+#: ../epanel/options_lucid.php:1077
+msgid "Input 728x90 advertisement banner image ( Footer area )"
+msgstr ""
+
+#: ../epanel/options_lucid.php:1084
+msgid "Input 728x90 advertisement destination url ( Footer area )"
+msgstr ""
+
+#: ../epanel/options_lucid.php:1091
+msgid "Input 728x90 adsense code ( Footer area )"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:35
+msgid "ET Page Template Settings"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:62
+msgid "Additional settings appear here, when one of ET page templates is selected ( Page Attributes -> Template )"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:67
+msgid "Full Width Page"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:72
+msgid "Regenerate captcha numbers"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:76
+msgid "Email To:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:82
+msgid "Blog Style mode"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:87
+msgid "Hide Auto Thumbnail"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:92
+msgid "Show Titles"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:97
+msgid "Show Descriptions"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:102
+msgid "Detect Portrait Images"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:106
+msgid "Thumbnail Size:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:107
+msgid "Small"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:108
+msgid "Medium"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:109
+msgid "Large"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:113
+#: ../epanel/page_templates/page_templates.php:118
+msgid "Number of posts per page:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:123
+msgid "Select blog categories:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:142
+msgid "Select gallery categories:"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:298
+msgid "Username:"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:299
+msgid "Password:"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:300
+msgid "Login"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:303
+#, php-format
+msgid "Not a member? <a href=\"%s\">Register today!</a>"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:336
+msgid "Add a Tooltip Text"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:356
+msgid "Click here to learn more"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:949
+msgid "Caption"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:950
+msgid "Caption goes here"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:951
+msgid "Caption title goes here"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:955
+msgid "State"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:957
+msgid "Select between expanded and closed state"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:962
+#: ../epanel/shortcodes/shortcodes.php:978
+#: ../epanel/shortcodes/shortcodes.php:1007
+#: ../epanel/shortcodes/shortcodes.php:1087
+msgid "Content"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:963
+#: ../epanel/shortcodes/shortcodes.php:979
+#: ../epanel/shortcodes/shortcodes.php:1065
+#: ../epanel/shortcodes/shortcodes.php:1088
+msgid "Content goes here"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:964
+#: ../epanel/shortcodes/shortcodes.php:980
+#: ../epanel/shortcodes/shortcodes.php:1009
+msgid "Content text or html"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:971
+#: ../epanel/shortcodes/shortcodes.php:993
+msgid "Type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:973
+msgid "Type of the box"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:987
+msgid "Link"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:989
+msgid "URL"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:995
+msgid "Choose button type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1000
+msgid "Color"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1002
+msgid "Choose button color"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1008
+msgid "Link text"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1013
+msgid "Icon"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1015
+msgid "Used for icon button type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1020
+msgid "Open link in new window"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1022
+msgid "Select yes if the link should be opened in a new window"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1030
+msgid "Slider Type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1032
+msgid "Select Slider Type here"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1037
+msgid "Effect"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1039
+msgid "Select Animation Effect"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1044
+msgid "Auto"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1046
+msgid "Choose yes if you want for automatic slider animation"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1051
+msgid "Auto Speed"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1053
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1057
+msgid "Tab Text"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1064
+msgid "Tab Content"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1066
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1074
+msgid "Image Url"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1076
+msgid "Author Image URL"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1080
+msgid "Use resizing"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1157
+msgid "+ Add One More Tab"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1307
+msgid "Image Height"
+msgstr ""
+
+#: ../epanel/shortcodes/shortcodes.php:1308
+msgid "Image Width"
+msgstr ""
+
+#: ../includes/additional_functions.php:32
+msgid "Video Post Format Settings: "
+msgstr ""
+
+#: ../includes/additional_functions.php:35
+msgid "Video url:"
+msgstr ""
+
+#: ../includes/additional_functions.php:38
+msgid "You can put Youtube or Vimeo link here."
+msgstr ""
+
+#: ../includes/breadcrumbs.php:7
+msgid "Posts Tagged "
+msgstr "Посты с тэгами"
+
+#: ../includes/breadcrumbs.php:9
+#: ../includes/breadcrumbs.php:11
+#: ../includes/breadcrumbs.php:13
+msgid "Posts made in"
+msgstr "Посты от"
+
+#: ../includes/breadcrumbs.php:15
+msgid "Search results for"
+msgstr "Результаты поиска по"
+
+#: ../includes/breadcrumbs.php:47
+msgid "Posts by "
+msgstr "Опубликовано"
+
+#: ../includes/entry.php:34
+msgid "Read More"
+msgstr "Далее"
+
+#: ../includes/featured.php:48
+msgid "Posted in "
+msgstr "Опубликовано в"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Предыдущие Записи"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Следующие Записи &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Ничего не найдено"
+
+#: ../includes/no-results.php:4
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "Запрашиваемая страница не найдена. Попробуйте уточнить параметры поиска или используйте меню для нахождения страницы."
+
+#: ../includes/functions/comments.php:15
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: ../includes/functions/comments.php:18
+msgid "(Edit)"
+msgstr "(Ред.)"
+
+#: ../includes/functions/comments.php:23
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: ../includes/functions/comments.php:31
+msgid "Reply"
+msgstr "Ответить"
+
+#: ../includes/functions/installation.php:1
+msgid "Read Flexible Documentation"
+msgstr ""
+
+#: ../includes/widgets/widget-tabbed.php:19
+msgid "Popular"
+msgstr "Популяр."
+
+#: ../includes/widgets/widget-tabbed.php:20
+msgid "Recent"
+msgstr "Послед."
+
+#: ../includes/widgets/widget-tabbed.php:21
+msgid "Random"
+msgstr "Случ."
+

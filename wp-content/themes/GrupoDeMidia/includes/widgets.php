@@ -1,0 +1,12 @@
+<?php 
+	get_template_part('includes/widgets/widget-about'); 
+	get_template_part('includes/widgets/widget-adsense'); 
+	get_template_part('includes/widgets/widget-ads-300x100');
+	get_template_part('includes/widgets/widget-ads-300x250');
+	get_template_part('includes/widgets/widget-fromblog');
+	get_template_part('includes/widgets/widget-frompage');
+	get_template_part('includes/widgets/widget-tabbed');
+	get_template_part('includes/widgets/widget-gallery');
+	get_template_part('includes/widgets/widget-rss');
+	get_template_part('includes/widgets/widget-from-video');
+?>
